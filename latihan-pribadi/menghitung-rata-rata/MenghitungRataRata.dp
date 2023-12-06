@@ -1,0 +1,12 @@
+[Project]
+FileName=D:\Pascal-Pemrograman\latihan-pribadi\menghitung-rata-rata\MenghitungRataRata.dp
+Name=MenghitungRataRata
+MainUnit=D:\Pascal-Pemrograman\latihan-pribadi\menghitung-rata-rata\menghitung_rata_rata.pas
+UnitCount=1
+ResFiles=D:\Pascal-Pemrograman\latihan-pribadi\menghitung-rata-rata\rsrc.rc
+NoConsole=0
+IsDll=0
+Icon=C:\Dev-Pas\Icon\Mainicon.ico
+[Unit1]
+FileName=D:\Pascal-Pemrograman\latihan-pribadi\menghitung-rata-rata\menghitung_rata_rata.pas
+FileTime=1466064221

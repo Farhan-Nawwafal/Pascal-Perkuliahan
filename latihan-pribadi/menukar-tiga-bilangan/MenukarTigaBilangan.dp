@@ -1,0 +1,12 @@
+[Project]
+FileName=D:\Pascal-Pemrograman\latihan-pribadi\menukar-tiga-bilangan\MenukarTigaBilangan.dp
+Name=MenukarTigaBilangan
+MainUnit=D:\Pascal-Pemrograman\latihan-pribadi\menukar-tiga-bilangan\menukar_tiga_bilangan.pas
+UnitCount=1
+ResFiles=D:\Pascal-Pemrograman\latihan-pribadi\menukar-tiga-bilangan\rsrc.rc
+NoConsole=0
+IsDll=0
+Icon=C:\Dev-Pas\Icon\Mainicon.ico
+[Unit1]
+FileName=D:\Pascal-Pemrograman\latihan-pribadi\menukar-tiga-bilangan\menukar_tiga_bilangan.pas
+FileTime=1468371005

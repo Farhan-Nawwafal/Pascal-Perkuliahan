@@ -1,0 +1,12 @@
+[Project]
+FileName=D:\Pascal-Pemrograman\latihan-pribadi\uang-pecahan\UangPecahan.dp
+Name=UangPecahan
+MainUnit=D:\Pascal-Pemrograman\latihan-pribadi\uang-pecahan\uang_pecahan.pas
+UnitCount=1
+ResFiles=D:\Pascal-Pemrograman\latihan-pribadi\uang-pecahan\rsrc.rc
+NoConsole=0
+IsDll=0
+Icon=C:\Dev-Pas\Icon\Mainicon.ico
+[Unit1]
+FileName=D:\Pascal-Pemrograman\latihan-pribadi\uang-pecahan\uang_pecahan.pas
+FileTime=1468377952

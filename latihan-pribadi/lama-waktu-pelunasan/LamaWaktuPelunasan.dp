@@ -1,0 +1,12 @@
+[Project]
+FileName=D:\Pascal-Pemrograman\latihan-pribadi\lama-waktu-pelunasan\LamaWaktuPelunasan.dp
+Name=LamaWaktuPelunasan
+MainUnit=D:\Pascal-Pemrograman\latihan-pribadi\lama-waktu-pelunasan\lama_waktu_pelunasan.pas
+UnitCount=1
+ResFiles=D:\Pascal-Pemrograman\latihan-pribadi\lama-waktu-pelunasan\rsrc.rc
+NoConsole=0
+IsDll=0
+Icon=C:\Dev-Pas\Icon\Mainicon.ico
+[Unit1]
+FileName=D:\Pascal-Pemrograman\latihan-pribadi\lama-waktu-pelunasan\lama_waktu_pelunasan.pas
+FileTime=1466740293

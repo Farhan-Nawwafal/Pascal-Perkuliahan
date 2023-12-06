@@ -1,0 +1,12 @@
+[Project]
+FileName=D:\Pascal-Pemrograman\latihan-pribadi\input-output\InputOutput.dp
+Name=InputOutput
+MainUnit=D:\Pascal-Pemrograman\latihan-pribadi\input-output\input_output.pas
+UnitCount=1
+ResFiles=D:\Pascal-Pemrograman\latihan-pribadi\input-output\rsrc.rc
+NoConsole=0
+IsDll=0
+Icon=C:\Dev-Pas\Icon\Mainicon.ico
+[Unit1]
+FileName=D:\Pascal-Pemrograman\latihan-pribadi\input-output\input_output.pas
+FileTime=1466273143

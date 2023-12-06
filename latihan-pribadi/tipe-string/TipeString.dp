@@ -1,0 +1,12 @@
+[Project]
+FileName=D:\Pascal-Pemrograman\latihan-pribadi\tipe-string\TipeString.dp
+Name=TipeString
+MainUnit=D:\Pascal-Pemrograman\latihan-pribadi\tipe-string\tipe_string.pas
+UnitCount=1
+ResFiles=D:\Pascal-Pemrograman\latihan-pribadi\tipe-string\rsrc.rc
+NoConsole=0
+IsDll=0
+Icon=C:\Dev-Pas\Icon\Mainicon.ico
+[Unit1]
+FileName=D:\Pascal-Pemrograman\latihan-pribadi\tipe-string\tipe_string.pas
+FileTime=1466271772
