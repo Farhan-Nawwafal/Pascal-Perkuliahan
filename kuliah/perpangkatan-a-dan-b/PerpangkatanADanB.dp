@@ -1,0 +1,12 @@
+[Project]
+FileName=D:\Pascal-Pemrograman\kuliah\perpangkatan-a-dan-b\PerpangkatanADanB.dp
+Name=PerpangkatanADanB
+MainUnit=D:\Pascal-Pemrograman\kuliah\perpangkatan-a-dan-b\perpangkatan_a_dan_b.pas
+UnitCount=1
+ResFiles=D:\Pascal-Pemrograman\kuliah\perpangkatan-a-dan-b\rsrc.rc
+NoConsole=0
+IsDll=0
+Icon=C:\Dev-Pas\Icon\Mainicon.ico
+[Unit1]
+FileName=D:\Pascal-Pemrograman\kuliah\perpangkatan-a-dan-b\perpangkatan_a_dan_b.pas
+FileTime=1466918691

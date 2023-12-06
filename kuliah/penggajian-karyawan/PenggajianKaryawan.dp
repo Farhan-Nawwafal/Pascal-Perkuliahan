@@ -1,0 +1,12 @@
+[Project]
+FileName=D:\Pascal-Pemrograman\penggajian-karyawan\PenggajianKaryawan.dp
+Name=PenggajianKaryawan
+MainUnit=D:\Pascal-Pemrograman\penggajian-karyawan\penggajian_karyawan.pas
+UnitCount=1
+ResFiles=D:\Pascal-Pemrograman\penggajian-karyawan\rsrc.rc
+NoConsole=0
+IsDll=0
+Icon=C:\Dev-Pas\Icon\Mainicon.ico
+[Unit1]
+FileName=D:\Pascal-Pemrograman\penggajian-karyawan\penggajian_karyawan.pas
+FileTime=1465475627

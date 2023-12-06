@@ -1,0 +1,12 @@
+[Project]
+FileName=D:\Pascal-Pemrograman\genap-ganjil\GenapGanjil.dp
+Name=GenapGanjil
+MainUnit=D:\Pascal-Pemrograman\genap-ganjil\genap_ganjil.pas
+UnitCount=1
+ResFiles=D:\Pascal-Pemrograman\genap-ganjil\rsrc.rc
+NoConsole=0
+IsDll=0
+Icon=C:\Dev-Pas\Icon\Mainicon.ico
+[Unit1]
+FileName=D:\Pascal-Pemrograman\genap-ganjil\genap_ganjil.pas
+FileTime=1465995891

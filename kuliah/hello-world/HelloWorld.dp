@@ -1,0 +1,12 @@
+[Project]
+FileName=D:\Pascal Pemrograman\hello-world\HelloWorld.dp
+Name=HelloWorld
+MainUnit=D:\Pascal Pemrograman\hello-world\hello.pas
+UnitCount=1
+ResFiles=D:\Pascal Pemrograman\hello-world\rsrc.rc
+NoConsole=0
+IsDll=0
+Icon=C:\Dev-Pas\Icon\Mainicon.ico
+[Unit1]
+FileName=D:\Pascal Pemrograman\hello-world\hello.pas
+FileTime=1465466277

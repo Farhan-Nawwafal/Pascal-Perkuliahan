@@ -1,0 +1,12 @@
+[Project]
+FileName=D:\Pascal-Pemrograman\kuliah\menentukan-indeks-nilai\MenentukanIndeksNilai.dp
+Name=MenentukanIndeksNilai
+MainUnit=D:\Pascal-Pemrograman\kuliah\menentukan-indeks-nilai\menentukan_indeks_nilai.pas
+UnitCount=1
+ResFiles=D:\Pascal-Pemrograman\kuliah\menentukan-indeks-nilai\rsrc.rc
+NoConsole=0
+IsDll=0
+Icon=C:\Dev-Pas\Icon\Mainicon.ico
+[Unit1]
+FileName=D:\Pascal-Pemrograman\kuliah\menentukan-indeks-nilai\menentukan_indeks_nilai.pas
+FileTime=1466454379
